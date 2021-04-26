@@ -48,7 +48,7 @@
         <asset:image src="grails-cupsonly-logo-white.svg" class="grails-logo"/>
     </div>
 </div>
-Testing Branch realease/arsclc01.1
+Testing Branch realease/arsclc01.2
 <div id="content" role="main">
     <section class="row colset-2-its">
         <h1>Welcome to Grails</h1>

@@ -50,6 +50,7 @@
 </div>
 Testing Branch realease/arsclc01.2
 Change made directly in github
+    Change made directly in github 3
 <div id="content" role="main">
     <section class="row colset-2-its">
         <h1>Welcome to Grails</h1>
